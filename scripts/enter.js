@@ -13,3 +13,5 @@ enterRaffle()
         console.error(error)
         process.exit(1)
     })
+
+// debugging outputFile should be written
